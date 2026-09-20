@@ -1,0 +1,6 @@
+{
+  "name": "Finly - Personal Expense & Budget Management",
+  "description": "Production-quality personal finance and expense management web app with income/expense tracking, budget monitoring, analytics, and privacy-focused multi-user data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
